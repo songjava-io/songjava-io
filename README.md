@@ -6,7 +6,7 @@
 
 # 온라인 강사 활동 (Servlet + Spring + Spring Boot)
 ### - 맘잡고 2022-10 ~ 2022-11 (완료)
-### - 패스트캠퍼스 2022-12 ~ 2023-03 (진행중)
+### - 패스트캠퍼스 2022-12 ~ 2023-03 (완료)
 
 # Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
