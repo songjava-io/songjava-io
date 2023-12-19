@@ -1,5 +1,5 @@
 # 경력
-### 14년차
+### 15년차
 
 # 주요 활동 포지션
 ### - PM, PL, AA, 백엔드 개발 공통, 프론트엔드 개발 공통
@@ -7,6 +7,9 @@
 # 온라인 강사 활동 (Servlet + Spring + Spring Boot)
 ### - 맘잡고 2022-10 ~ 2022-11 (완료)
 ### - 패스트캠퍼스 2022-12 ~ 2023-03 (완료)
+
+# 현재 커리어
+### - KBLife 영업지원포털 실적현황 통계 분석/설계/커뮤니케이션/개발 React, Sprig Boot 2023.6 ~ 진행중
 
 # Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
